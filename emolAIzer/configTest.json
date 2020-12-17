@@ -1,5 +1,5 @@
 {
-    "dpVersion" : 1.3,
+    "dpVersion" : 1.4,
     "minRecordSec" : 1.5,
     "maxRecordSec" : 7.0
 }
